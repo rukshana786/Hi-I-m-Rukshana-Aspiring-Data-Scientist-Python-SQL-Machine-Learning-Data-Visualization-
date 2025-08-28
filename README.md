@@ -1,4 +1,4 @@
-# Hi-I-m-Rukshana-Aspiring-Data-Scientist-Python-SQL-Machine-Learning-Data-Visualization-
+# Hi-I'm Rukshana Akhter -Aspiring Data Scientist-Python-SQL-Machine-Learning-Data-Visualization
 ## 👩‍🎓 About Me 
 - 🎓 Graduated in Computer Applications (2024)
 - 📍 Based in India
